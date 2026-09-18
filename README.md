@@ -1,4 +1,4 @@
-<img width="656" height="508" alt="Desk Buddy schematic" src="schematic.png" /># 🤖 Desk Buddy — ESP32-Based Interactive Desktop Companion
+# 🤖 Desk Buddy — ESP32-Based Interactive Desktop Companion
 
 Desk Buddy is a compact interactive desktop companion built around an ESP32.
 It responds to touch, blinks animated eyes on an OLED display, shows the
