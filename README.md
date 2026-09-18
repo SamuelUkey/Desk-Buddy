@@ -51,7 +51,7 @@ from circuit and PCB design in KiCad to a 3D-printed enclosure.
 Designed in KiCad — schematic, ERC-checked, with custom footprints and
 PCB layout.
 
-ppppp
+C:/Users/Rick/Downloads/schematic.png
 
 ---
 
