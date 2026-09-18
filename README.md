@@ -51,7 +51,7 @@ from circuit and PCB design in KiCad to a 3D-printed enclosure.
 Designed in KiCad — schematic, ERC-checked, with custom footprints and
 PCB layout.
 
-C:/Users/Rick/Downloads/schematic.png
+<img width="656" height="508" alt="Desk Buddy schematic" src="schematic.png" />
 
 ---
 
