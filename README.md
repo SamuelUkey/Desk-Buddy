@@ -79,9 +79,10 @@ Built with:
 
 ---
 
-## 📁 Repo Structure
+```
 Desk-Buddy/
 ├── DeskBuddy_Eyes_Clock.ino   # ESP32 firmware
 ├── schematic.png              # Circuit schematic (preview)
 ├── schematic.pdf              # Circuit schematic (full resolution)
 └── README.md
+```
