@@ -34,8 +34,8 @@
 #define OLED_RESET -1
 #define TOUCH_PIN 4
 
-const char* WIFI_SSID = "Airtel_Starlight";
-const char* WIFI_PASSWORD = "Neverland";
+const char* WIFI_SSID = "Wifi name";
+const char* WIFI_PASSWORD = "Pass";
 
 // Set your timezone offset from UTC in seconds (e.g. IST = +5:30 = 19800)
 const long GMT_OFFSET_SEC = 19800;
